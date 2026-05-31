@@ -1,0 +1,11 @@
+movieId,avg_rating,num_ratings,title,genres
+318,4.446990499637029,63366,"Shawshank Redemption, The (1994)",Crime|Drama
+858,4.364732196832306,41355,"Godfather, The (1972)",Crime|Drama
+50,4.334372207803259,47006,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+527,4.310175010988133,50054,Schindler's List (1993),Drama|War
+1221,4.275640557704942,27398,"Godfather: Part II, The (1974)",Crime|Drama
+2019,4.2741796572216,11611,Seven Samurai (Shichinin no samurai) (1954),Action|Adventure|Drama
+904,4.271333600779414,17449,Rear Window (1954),Mystery|Thriller
+7502,4.263182346109176,4305,Band of Brothers (2001),Action|Drama|War
+912,4.258326830670664,24349,Casablanca (1942),Drama|Romance
+922,4.256934865900383,6525,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance
