@@ -1,3 +1,5 @@
-gradio
-scikit-surprise
+streamlit
 pandas
+plotly
+scikit-surprise
+gradio
